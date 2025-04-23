@@ -1,5 +1,5 @@
 This Repository exists for the Game's Changelog, and does not contain any assets of the game here.
-Latest Version: Alpha 0.1.0b
+**Latest Version: Alpha 0.1.0b**
 
 Alpha v0.1.0b Changelog:
 ```diff

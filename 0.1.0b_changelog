@@ -1,0 +1,17 @@
+## Alpha v0.1.0b changelog:
+```diff
+! Greatly Reduced CPU Usage from ~60% while Idle, ~80% while Playing to ~1% while Idle, ~20% while Playing (Intel(R) Core(TM) i5-6200U @ 2.30GHz)
++ Pressing [ESC] now toggles the pause menu, rather than just pausing and not resuming
+! Fixed Player Sprite possibly getting stuck on a moving frame
+! Revamped Sword Textures (and the Shop UI)
+! Patched Pause-TPing (pausing game while running to teleport without losing energy)
++ Added Settings
++ Added Options and Quitting to the Pause Menu
+! Fixed Player possibly getting stuck in the Starter Island - Desert bridge (Do NOT enter that bridge from the very left or right.)
+! Fixed Room Transmitters being wacky on Desert2 and Desert3
++ Added a new room
+! Changed Game Level-Up Formula
+- Temporarily Removed the Zombie
++ Energy no longer gets saved (this is good because now you rejoin the game with max energy)
+! Changed Game Font to "Itim"
+```

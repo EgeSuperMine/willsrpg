@@ -1,4 +1,5 @@
-## Alpha v0.1.0b changelog:
+Alpha v0.1.0b changelog:
+
 ```diff
 ! Greatly Reduced CPU Usage from ~60% while Idle, ~80% while Playing to ~1% while Idle, ~20% while Playing (Intel(R) Core(TM) i5-6200U @ 2.30GHz)
 + Pressing [ESC] now toggles the pause menu, rather than just pausing and not resuming
